@@ -6,6 +6,7 @@
 site_prefix = "/Prism-Blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
+template = "Prism"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
