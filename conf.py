@@ -3,14 +3,14 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/Prism-Blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "Reedo0910/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "Reedo0910/Prism-Blog@gh-pages"
 }
 
 # 站点设置
