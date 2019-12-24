@@ -15,7 +15,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "Prism示例博客"
+site_name = "PRISM"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-23T16:51+08:00"
 author = "Zeee"
