@@ -24,17 +24,18 @@ author_homepage = "https://www.velas.xyz"
 description = "Hello World"
 key_words = ['Prism', 'Zeee', 'blog']
 language = 'zh-CN'
+background_img = '${static_prefix}bg/bg.jpg'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Velas电波站",
+        "url": "https://www.velas.xyz",
+        "brief": "非正常信号发射与搜寻装置"
     }
+    # {
+    #     "name": "三無計劃",
+    #     "url": "https://www.imalan.cn",
+    #     "brief": "熊猫小A的主页。"
+    # }
 ]
 nav = [
     {
