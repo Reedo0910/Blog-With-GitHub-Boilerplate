@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="zh-CN">
-    <head>
+
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="renderer" content="webkit">
@@ -11,7 +12,7 @@
     <meta name="template" content="Prism" />
     <link rel="alternate" type="application/rss+xml" title="Prism示例博客 &raquo; RSS 2.0" href="/Prism-Blog/feed/index.xml" />
     <link rel="alternate" type="application/atom+xml" title="Prism示例博客 &raquo; ATOM 1.0" href="/Prism-Blog/feed/atom/index.xml" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/assets/prism-8b8364b2fe.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/assets/prism-19c03f883d.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/assets/ExSearch/ExSearch-182e5a8868.css">
     <link href="https://fonts.googleapis.com/css?family=Fira+Code&display=swap" rel="stylesheet">
     <script>
@@ -19,6 +20,7 @@
             root: "",
             api: "https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/ed75ef1784cc1db4215d014ee798bcd6.json"
         }
+
     </script>
     
 <title>Prism示例博客</title>
@@ -40,73 +42,55 @@
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 
-    </head>
-    
-    <body>
-        
-        <div class="container">
-            <header id="ga-header">
-                <div first>
-                    <aside id="ga-logo">
-                        <a href="/Prism-Blog/" target="_self">
-                            <img src="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/logo.png" alt="Prism示例博客">
-                        </a>
-                    </aside>
-                    <aside id="ga-brand">
-                        <h1 class="brand"><a class="no-style" href="/Prism-Blog/">Prism示例博客</a></h1>
-                        <p>Hello World</p>
-                    </aside>
-                </div>
-                <div second id="ga-nav">
-                    <nav class="navs">
-                        <ul><li><a class="ga-highlight" href="/Prism-Blog/" target="_self">首页</a></li><span class="separator">·</span><li><a class="ga-highlight" href="/Prism-Blog/archives/" target="_self">归档</a></li><span class="separator">·</span><li><a class="ga-highlight" href="/Prism-Blog/about/" target="_self">关于</a></li><span class="separator">·</span><li><a href="#" target="_self" class="search-form-input ga-highlight">搜索</a></li></ul>
-                    </nav>
-                    <nav class="social-links">
-                        <ul><li><a class="no-style" title="GitHub" href="https://github.com/Reedo0910" target="_blank"><i class="gi gi-github"></i>GitHub</a></li></ul>
-                    </nav>
-                </div>
-            </header>
-            <div class="wrapper">
-                
+</head>
+
+<body>
+    <div class="container">
+        <header class="prism-header" id="prism__header">
+            <div class="brand-logo"><img src=""" alt=" Prism示例博客 cover">
+            </div>
+            <h1><a class="no-link" href="/Prism-Blog/">Prism示例博客</a></h1>
+            <nav class="prism-nav"><ul><li><a class="no-link text-uppercase" href="/Prism-Blog/" target="_self">首页</a></li><li><a class="no-link text-uppercase" href="/Prism-Blog/archives/" target="_self">归档</a></li><li><a class="no-link text-uppercase" href="/Prism-Blog/about/" target="_self">关于</a></li><li><a href="#" target="_self" class="search-form-input no-link">搜索</a></li></ul></nav>
+        </header>
+        <div class="prism-wrapper" id="prism__wrapper">
+            
 <main>    
     
 
-<section id="ga-post_list" class="ga-section" data-title="Posts">
-    <ul>
-        
-        <li>
-            <article class="yue">
-                <h1>Hello World!</h1>
-                
-                    <blockquote>这是一篇示例文章，在这里你可以看到常用页面元素的显示效果。</blockquote>
-                
-                <footer>
-                    <span class="ga-read_more"><a class="ga-highlight" href="/Prism-Blog/archives/typography/">阅读全文</a></span>
-                    <time class="ga-mono">
-                        2019-12-18
-                    </time>
-                </footer>
-            </article>
-        </li>
-        
-    </ul>
-</section>
-
-<section class="ga-section ga-mono" id="ga-pager">
+<section id="prism__post-list" class="prism-section row" data-title="Posts">
     
-    <span>Page 1 of 1</span>
+    <article class="yue prism-post-item col-md-8 offset-md-2">
+        <h2 class="prism-post-item-title"><a class="no-link" href="/Prism-Blog/archives/typography/" target="__self">Hello World!</a></h2>
+        <div class="prism-post-item-time">
+            <a class="no-link" href="/Prism-Blog/archives/typography/" target="__self">
+                <time class="text-uppercase">
+                    December 18 2019
+                </time>
+            </a>
+        </div>
+        <!-- 
+        <p>这是一篇示例文章，在这里你可以看到常用页面元素的显示效果。</p>
+         -->
+    </article>
     
 </section>
 
-<section id="ga-external_links" class="ga-section" data-title="Links">
+<section class="prism-section" id="prism__paginate">
+    
+    <!-- <span>Page 1 of 1</span> -->
+    
+</section>
+
+<section id="prism__external_links" class="prism-section">
+    <h2>Links</h2>
     <ul>
         
         <li>
-            <a class="ga-highlight" target="_blank" href="https://github.com/AlanDecode/Maverick">Maverick</a>：🏄‍ Go My Own Way.
+            <a class="no-link" target="_blank" href="https://github.com/AlanDecode/Maverick">Maverick</a>：🏄‍ Go My Own Way.
         </li>
         
         <li>
-            <a class="ga-highlight" target="_blank" href="https://www.imalan.cn">三無計劃</a>：熊猫小A的主页。
+            <a class="no-link" target="_blank" href="https://www.imalan.cn">三無計劃</a>：熊猫小A的主页。
         </li>
         
     </ul>
@@ -115,36 +99,37 @@
 
 </main>
 
-                <footer class="ga-mono" id="ga-footer">
-                    <section>
-                        <span id="ga-uptime"></span>
+            <footer id="prism__footer">
+                <section>
+                    <div>
+                        <span class="footer-addon">
+                            
+                        </span>
+                        <nav class="social-links">
+                            <ul><li><a class="no-link" title="GitHub" href="https://github.com/Reedo0910" target="_blank"><i class="gi gi-github"></i></a></li></ul>
+                        </nav>
+                    </div>
+                    <p class="copyright">
                         <span class="brand">Prism示例博客</span>
-                    </section>
-                    <section>
-                        <p class="copyright">
-                            <span>Copyright © 2019 Zeee</span>
-                            <span>Powered by <a no-style href="https://github.com/AlanDecode/Maverick" target="_blank">Maverick & Prism</a></span>
-                        </p>
-                        <div class="copyright">
-                            <span class="footer-addon">
-                                
-                            </span>
-                            <nav class="social-links">
-                                <ul><li><a class="no-style" title="GitHub" href="https://github.com/Reedo0910" target="_blank"><i class="gi gi-github"></i>GitHub</a></li></ul>
-                            </nav>
-                        </div>
-                    </section>
-                    <script>
-                        var site_build_date = "2019-12-23T16:51+08:00"
-                    </script>
-                    <script src="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/assets/prism-38687928f3.js"></script>
-                </footer>
-            </div>
+                        <span>Copyright © 2019 Zeee</span>
+                        <div></div>
+                    </p>
+                    <div class="copyright">
+                        <span>Powered by <a href="https://github.com/AlanDecode/Maverick" class="no-link" target="_blank">Maverick</a>&<a href="https://github.com/Reedo0910/Maverick-Theme-Prism" target="_blank" class="no-link">Prism</a></span>
+                    </div>
+                </section>
+                <script>
+                    var site_build_date = "2019-12-23T16:51+08:00"
+
+                </script>
+                <script src="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/assets/prism-0077d66271.js"></script>
+            </footer>
         </div>
     </div>
-        
-        
-        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    </div>
+
+
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="pswp__bg"></div>
         <div class="pswp__scroll-wrap">
             <div class="pswp__container">
@@ -161,14 +146,14 @@
                     <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
                     <div class="pswp__preloader">
                         <div class="pswp__preloader__icn">
-                          <div class="pswp__preloader__cut">
-                            <div class="pswp__preloader__donut"></div>
-                          </div>
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                    <div class="pswp__share-tooltip"></div> 
+                    <div class="pswp__share-tooltip"></div>
                 </div>
                 <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
                 </button>
@@ -185,5 +170,6 @@
     <script src="https://cdn.jsdelivr.net/gh/Reedo0910/Prism-Blog@gh-pages/assets/ExSearch/ExSearch-493cb9cd89.js"></script>
 
     
-    </body>
+</body>
+
 </html>
