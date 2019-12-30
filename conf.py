@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Prism-Blog/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 template = "Prism"
