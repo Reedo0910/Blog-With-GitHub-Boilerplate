@@ -1,3 +1,6 @@
 [submodule "templates/Prism"]
 	path = templates/Prism
 	url = https://github.com/Reedo0910/Maverick-Theme-Prism.git
+[submodule "Maverick"]
+	path = Maverick
+	url = https://github.com/AlanDecode/Maverick.git
