@@ -9,6 +9,8 @@ build_dir = "../dist/"
 template = "Prism"
 index_page_size = 10
 archives_page_size = 20
+locale = "Asia/Shanghai"
+category_by_folder = False
 enable_jsdelivr = {
     "enabled": True,
     "repo": "Reedo0910/Prism-Blog@gh-pages"
