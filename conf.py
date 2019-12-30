@@ -13,7 +13,7 @@ template = {
     "type": "local",
     "path": "../templates/Prism"
 }
-template = "Prism"
+# template = "Prism"
 
 index_page_size = 10
 archives_page_size = 20
