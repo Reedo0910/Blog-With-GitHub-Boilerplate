@@ -6,7 +6,15 @@
 site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
-template = "Prism"
+
+# to use theme in another local folder, set:
+template = {
+    "name": "Prism",
+    "type": "local",
+    "path": "../templates/Prism"
+}
+# template = "Prism"
+
 index_page_size = 10
 archives_page_size = 20
 locale = "Asia/Shanghai"
