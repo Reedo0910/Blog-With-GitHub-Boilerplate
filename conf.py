@@ -15,31 +15,26 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "PRISM"
+site_name = "灯森"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-23T16:51+08:00"
 author = "Zeee"
 email = "ericrlee@outlook.com"
 author_homepage = "https://www.velas.xyz"
-description = "Hello World"
+description = "另一边的风景"
 key_words = ['Prism', 'Zeee', 'blog']
 language = 'zh-CN'
 background_img = '${static_prefix}bg/bg.jpg'
 external_links = [
     {
         "name": "Velas电波站",
-        "url": "https://www.velas.xyz",
+        "url": "https://www.velasx.com",
         "brief": "非正常信号发射与搜寻装置"
     }
-    # {
-    #     "name": "三無計劃",
-    #     "url": "https://www.imalan.cn",
-    #     "brief": "熊猫小A的主页。"
-    # }
 ]
 nav = [
     {
-        "name": "首页",
+        "name": "博客",
         "url": "${site_prefix}",
         "target": "_self"
     },
@@ -56,21 +51,11 @@ nav = [
 ]
 
 social_links = [
-    # {
-    #     "name": "Twitter",
-    #     "url": "",
-    #     "icon": "gi gi-twitter"
-    # },
     {
         "name": "GitHub",
         "url": "https://github.com/Reedo0910",
         "icon": "gi gi-github"
     }
-    # {
-    #     "name": "Weibo",
-    #     "url": "",
-    #     "icon": "gi gi-weibo"
-    # }
 ]
 
 head_addon = r'''
