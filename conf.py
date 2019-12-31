@@ -15,8 +15,8 @@ template = {
 }
 # template = "Prism"
 
-index_page_size = 10
-archives_page_size = 20
+index_page_size = 5
+archives_page_size = 10
 locale = "Asia/Shanghai"
 category_by_folder = False
 enable_jsdelivr = {
