@@ -11,7 +11,7 @@ build_dir = "../dist/"
 template = {
     "name": "Prism",
     "type": "local",
-    "path": "../templates/Prism"
+    "path": "../Templates/Prism"
 }
 # template = "Prism"
 
