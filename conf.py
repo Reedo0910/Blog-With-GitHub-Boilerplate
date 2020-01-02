@@ -68,6 +68,17 @@ social_links = [
     }
 ]
 
+valine = {
+    "enable": True,
+    "appId": "vCqjtUlqwGDLvu7RLHM8HFik-gzGzoHsz",
+    "appKey": "XbhG90ewd7thakxgvv1zRhO3",
+    "notify": "true",
+    "visitor": "true",
+    "recordIP": "true",
+    "serverURLs": None,
+    "placeholder": ""
+}
+
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
