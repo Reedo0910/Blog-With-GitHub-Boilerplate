@@ -76,7 +76,7 @@ valine = {
     "visitor": "true",
     "recordIP": "true",
     "serverURLs": None,
-    "placeholder": ""
+    "placeholder": " "
 }
 
 head_addon = r'''
