@@ -73,10 +73,10 @@ valine = {
     "appId": "vCqjtUlqwGDLvu7RLHM8HFik-gzGzoHsz",
     "appKey": "XbhG90ewd7thakxgvv1zRhO3",
     "el": '#vcomments',
+    "avatar": "identicon",
     "notify": "true",
     "visitor": "true",
     "recordIP": "true",
-    "serverURLs": None,
     "placeholder": " "
 }
 
