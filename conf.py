@@ -8,12 +8,20 @@ source_dir = "../src/"
 build_dir = "../dist/"
 
 # to use theme in another local folder, set:
+# template = {
+#     "name": "Prism",
+#     "type": "local",
+#     "path": "../Templates/Prism"
+# }
+
+# template = "Prism"
+
 template = {
     "name": "Prism",
-    "type": "local",
-    "path": "../Templates/Prism"
+    "type": "git",
+    "url": "https://github.com/Reedo0910/Maverick-Theme-Prism.git",
+    "branch": "deploy"
 }
-# template = "Prism"
 
 index_page_size = 5
 archives_page_size = 10
@@ -35,13 +43,7 @@ description = "另一边的风景"
 key_words = ['Prism', 'Zeee', 'blog']
 language = 'zh-CN'
 background_img = ''
-external_links = [
-    {
-        "name": "Velas电波站",
-        "url": "https://www.velasx.com",
-        "brief": "非正常信号发射与搜寻装置"
-    }
-]
+external_links = []
 nav = [
     {
         "name": "博客",
