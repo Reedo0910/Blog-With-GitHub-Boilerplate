@@ -1,0 +1,58 @@
+---
+layout: post
+title: Watkins Glen
+slug: watkins-glen
+date: 2019-10-14 12:00
+status: publish
+author: Zeee
+showfull: true
+categories: 
+  - Diary
+tags:
+  - Trip
+  - New York
+---
+
+人生似乎总有那么几场“说走就走”的旅行，Watkins Glen（沃特金斯格伦）之行便是如此。
+
+10月13日正值October Break，才开学没多久便又有一个小假期从天而降，因此也并没什么出游的计划。由于这天是周日，许多餐馆都歇业了。本在和好友在苦恼中午吃什么，冷不丁在地图上搜到了一家评分很高的泰国餐厅。欣喜若狂之余正急于前往，谁知定睛一看，餐馆在62英里（约100公里）外的另一个小镇Watkins Glen上。好友说，“这不正愁没地方可去嘛，就当作是去旅游吧”。
+
+以上，便是这次意外之旅的契机。
+
+从Geneva下了高速，我们一路沿着碧蓝的塞尼卡湖（Seneca Lake）南行，在路的两边不时能看到种着树莓和葡萄的果园。在翻过了好几个小山丘、来到了塞尼卡湖的最南角后，Watkins Glen便出现在眼前了。
+
+不知因为是周日还是Watkins Glen是旅游小镇的关系，路上的人很多。或许「路上的人非常多」在中国并不是什么值得一提的事情，但在这个“车轮上的国家”，除了纽约市这种大都会以外，「行人道上有人」确实是挺罕见的。
+
+这家让我们“不远万里”来午餐的泰国餐厅叫做Thai Elephants，装饰十分有泰国的气息，食物也确实非常美味。然而我们光顾着吃，却忘记了拍照，这着实是一个遗憾。
+
+![Seneca Lake](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_04.jpeg "左上角是一个产湖盐的工厂")
+
+午饭过后，我们来到了小镇北边的码头散步。天气比较晴朗，得益于此，我们看到了十分美丽的塞尼卡湖。
+
+![Watkin Glen Harbor](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_02.jpeg "停满了船只的码头")
+
+小镇的码头上停了许多游船。风很大，无数船铃在风中叮叮作响。有幸见到了一艘帆船扬帆起航，感到非常开心。
+
+在码头上转了一圈后，我们又驱车来到了小镇西边的州立公园。其实Watkins Glen面积不大，从码头走到州立公园只需要十分钟不到。哪怕没有车，在小镇活动也是很便利的。
+
+![Watkins Glen State Park](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_03.jpg)
+
+公园是开放式的，不需要买票就能进入。来到门口的时候，一阵大风吹来，满山的落叶都随风纷纷飘到山脚，就像电影里的场景一样，很是浪漫。
+
+![Watkins Glen State Park 2](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_09.jpeg)
+
+出乎我意料的是，这个州立公园的游客小道是混凝土修成的。相比起之前我所到过的其他罕有人工痕迹的州立公园来说，它算是个例外。可能公园里小瀑布众多，岩壁和路面都很湿滑，这是出于安全考虑而为的。
+
+可能我来的时候属于枯水期，州立公园的标志景点“[彩虹桥](https://upload.wikimedia.org/wikipedia/commons/a/ad/Watkins_Glen_State_Park_pano_6.jpg)”并没有照片里的那么漂亮。反而在前往景点的路上，不时能看到一些意外的美景，就像下面这张。
+
+![Watkins Glen State Park 3](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_01.jpeg)
+
+在返回公园大门的时候，我们选择了一条山上人迹罕至的小道。路面上满是落叶和掉落的松果，倒没看到什么特别的景色。反而在空无一人的小道上走着，听着山间传来的奇异的鸟鸣，恍惚觉得像是穿越到了某个美式角色扮演类游戏里一般。这似乎就是“艺术来源于生活”吧。
+
+![Watkins Glen State Park 4](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_05.jpeg)
+
+又走了一段路程，隐约间终于又能看到小镇了。此时黄昏将近。从山上看，发现整个小镇都藏在秋色中了。我从小在南方长大，四季向来是不大分明的。因此如此有秋天感觉的画面，在我看来是非常的新奇而难忘。我不由得开始期待：到了白雪皑皑的冬天，眼前的一切又会是什么景象呢？
+
+Watkins Glen，我们冬天再会吧。
+
+![Watkins Glen](/Users/ericlee/Workspace/Prism-Blog/src/Watkins Glen/Watkins_Glen_08.jpeg)
