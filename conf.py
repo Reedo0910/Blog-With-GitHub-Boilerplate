@@ -30,7 +30,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-23T16:51+08:00"
 author = "Zeee"
 email = "ericrlee@outlook.com"
-author_homepage = "https://www.velas.xyz"
+author_homepage = "https://www.velasx.com"
 description = "另一边的风景"
 key_words = ['Prism', 'Zeee', 'blog']
 language = 'zh-CN'
@@ -83,7 +83,7 @@ valine = {
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="shortcut icon" href="/favicon.ico">
