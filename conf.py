@@ -27,10 +27,12 @@ index_page_size = 5
 archives_page_size = 10
 locale = "Asia/Shanghai"
 category_by_folder = False
+fetch_remote_imgs = True
 enable_jsdelivr = {
     "enabled": True,
     "repo": "Reedo0910/Prism-Blog@gh-pages"
 }
+parse_alt_as_figcaption: False
 
 # 站点设置
 site_name = "灯森"
@@ -40,7 +42,7 @@ author = "Zeee"
 email = "ericrlee@outlook.com"
 author_homepage = "https://www.velasx.com"
 description = "另一边的风景"
-key_words = ['Prism', 'Zeee', 'blog']
+key_words = ['Akari Mori', 'Velas电波站', '博客', 'Prism']
 language = 'zh-CN'
 background_img = ''
 external_links = []
@@ -101,4 +103,14 @@ head_addon = r'''
 
 footer_addon = ''
 
-body_addon = ''
+body_addon = r'''
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124627473-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124627473-2');
+</script>
+'''
