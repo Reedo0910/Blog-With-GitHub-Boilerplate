@@ -2,4 +2,6 @@
 
 该仓库仅供学习和交流使用。
 
-Zeee保留对仓库及网站内容的所有权利。Zeee All Rights Reserved.
+Zeee保留对该仓库src目录下的内容，及该仓库所对应的GitHub Pages网站[“灯森”](https://www.akari-mori.com/)内容的所有权利。
+
+Zeee All Rights Reserved.
