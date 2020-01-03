@@ -99,11 +99,6 @@ head_addon = r'''
 <meta name="apple-mobile-web-app-title" content="灯森">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
-'''
-
-footer_addon = ''
-
-body_addon = r'''
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124627473-2"></script>
 <script>
@@ -114,3 +109,7 @@ body_addon = r'''
   gtag('config', 'UA-124627473-2');
 </script>
 '''
+
+footer_addon = ''
+
+body_addon = ''
