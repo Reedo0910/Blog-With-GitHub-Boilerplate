@@ -35,24 +35,24 @@ tags:
 
 在码头上转了一圈后，我们又驱车来到了小镇西边的州立公园。其实Watkins Glen面积不大，从码头走到州立公园只需要十分钟不到。哪怕没有车，在小镇活动也是很便利的。
 
-![Watkins Glen State Park](./Watkins_Glen_03.jpg)
+![Watkins Glen State Park](./Watkins_Glen_03.jpg "")
 
 公园是开放式的，不需要买票就能进入。来到门口的时候，一阵大风吹来，满山的落叶都随风纷纷飘到山脚，就像电影里的场景一样，很是浪漫。
 
-![Watkins Glen State Park 2](./Watkins_Glen_09.jpeg)
+![Watkins Glen State Park 2](./Watkins_Glen_09.jpeg "")
 
 出乎我意料的是，这个州立公园的游客小道是混凝土修成的。相比起之前我所到过的其他罕有人工痕迹的州立公园来说，它算是个例外。可能公园里小瀑布众多，岩壁和路面都很湿滑，这是出于安全考虑而为的。
 
 可能我来的时候属于枯水期，州立公园的标志景点“[彩虹桥](https://upload.wikimedia.org/wikipedia/commons/a/ad/Watkins_Glen_State_Park_pano_6.jpg)”并没有照片里的那么漂亮。反而在前往景点的路上，不时能看到一些意外的美景，就像下面这张。
 
-![Watkins Glen State Park 3](./Watkins_Glen_01.jpeg)
+![Watkins Glen State Park 3](./Watkins_Glen_01.jpeg "")
 
 在返回公园大门的时候，我们选择了一条山上人迹罕至的小道。路面上满是落叶和掉落的松果，倒没看到什么特别的景色。反而在空无一人的小道上走着，听着山间传来的奇异的鸟鸣，恍惚觉得像是穿越到了某个美式角色扮演类游戏里一般。这似乎就是“艺术来源于生活”吧。
 
-![Watkins Glen State Park 4](./Watkins_Glen_05.jpeg)
+![Watkins Glen State Park 4](./Watkins_Glen_05.jpeg "")
 
 又走了一段路程，隐约间终于又能看到小镇了。此时黄昏将近。从山上看，发现整个小镇都藏在秋色中了。我从小在南方长大，四季向来是不大分明的。因此如此有秋天感觉的画面，在我看来是非常的新奇而难忘。我不由得开始期待：到了白雪皑皑的冬天，眼前的一切又会是什么景象呢？
 
 Watkins Glen，我们冬天再会吧。
 
-![Watkins Glen](./Watkins_Glen_08.jpeg)
+![Watkins Glen](./Watkins_Glen_08.jpeg "")
