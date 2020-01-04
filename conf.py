@@ -32,7 +32,7 @@ enable_jsdelivr = {
     "enabled": True,
     "repo": "Reedo0910/Prism-Blog@gh-pages"
 }
-parse_alt_as_figcaption: False
+parse_alt_as_figcaption = False
 
 # 站点设置
 site_name = "灯森"
