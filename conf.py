@@ -8,20 +8,20 @@ source_dir = "../src/"
 build_dir = "../dist/"
 
 # to use theme in another local folder, set:
-# template = {
-#     "name": "Prism",
-#     "type": "local",
-#     "path": "../Templates/Prism"
-# }
+template = {
+    "name": "Prism",
+    "type": "local",
+    "path": "../Templates/Prism"
+}
 
 # template = "Prism"
 
-template = {
-    "name": "Prism",
-    "type": "git",
-    "url": "https://github.com/Reedo0910/Maverick-Theme-Prism.git",
-    "branch": "deploy"
-}
+# template = {
+#     "name": "Prism",
+#     "type": "git",
+#     "url": "https://github.com/Reedo0910/Maverick-Theme-Prism.git",
+#     "branch": "deploy"
+# }
 
 index_page_size = 5
 archives_page_size = 10
