@@ -110,7 +110,7 @@ head_addon = r'''
 '''
 
 footer_addon = r'''
-<a href="http://beian.miit.gov.cn" target="_blank" class="no-link" rel="noopener noreferrer nofollow">你的备案号</a>
+<a href="http://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer nofollow">你的备案号</a>
 '''
 
 body_addon = ''
