@@ -109,8 +109,6 @@ head_addon = r'''
 </script>
 '''
 
-footer_addon = r'''
-<a href="http://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer nofollow">你的备案号</a>
-'''
+footer_addon = ''
 
 body_addon = ''
