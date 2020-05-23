@@ -60,6 +60,11 @@ nav = [
         "name": "关于",
         "url": "${site_prefix}about/",
         "target": "_self"
+    },
+    {
+        "name": "RSS",
+        "url": "${site_prefix}feed/atom/index.xml",
+        "target": "_blank"
     }
 ]
 
