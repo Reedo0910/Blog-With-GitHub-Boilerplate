@@ -5,14 +5,14 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/about/</loc>
+    <loc>/Prism-Blog/about/</loc>
     <lastmod>2020-01-03</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>/archives/watkins-glen/</loc>
+    <loc>/Prism-Blog/archives/watkins-glen/</loc>
     <lastmod>2019-10-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
